@@ -26,5 +26,5 @@ Please add your name to this list along with your Discord name
 -[Abhinand](https://github.com/abhinand5) - Discord: Abhinand #6836
 -[princeadeyeye](https://github.com/princeadeyeye) - Discord: Muiz 
 
--[dfrishman](https://github.com/dfrishman) - Discord: dafrish 
+-[dfrishman](https://github.com/dfrishman) - Discord: DanFrish #3526 
 
